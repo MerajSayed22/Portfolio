@@ -12,6 +12,7 @@ export default {
         skin:'#F6C794',
         olive:'#344C36',
         yellowMix:'#F9AD1B',
+        DarkPink:'#ffafcc',
       }
     },
   },
